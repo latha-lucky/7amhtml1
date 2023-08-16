@@ -1,0 +1,13 @@
+.txt-color{
+    color: blueviolet;
+}
+.txt-size{
+    font-size: 50px;
+}
+.txt-famliy{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+}
+.txt-color,.txt-famliy,.txt-size{
+    color: green;
+}

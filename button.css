@@ -1,0 +1,21 @@
+button{
+    margin: 50px;
+}
+.btn-txtcolor{
+    color: red;
+}
+.btn-border{
+    border: 3px solid green;
+}
+.btn-bgcolor{
+    background-color: green;
+}
+.btn-shadow{
+    box-shadow: 3px 4px 2px red;
+}
+.btn-radius{
+    border-radius: 5px;
+}
+.btn-logout{
+    padding: 10px 20px;
+}

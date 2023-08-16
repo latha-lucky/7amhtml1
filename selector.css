@@ -1,0 +1,36 @@
+/* element selector */
+
+h1{
+    font-size: 60px;
+    color: aqua;
+}
+/* group selector */
+p,a{
+    font-size: 30px;
+    color: brown;
+
+}
+/* class selector */
+h1.dinga{
+    font-size: 30px;
+    color: green;
+}
+/* generic class selector */
+.dingi{
+    font-size: 30px;
+    color: bisque;
+}
+/* id selector */
+#abc{
+    color: black;
+}
+/* child selector */
+div h1{
+    color: blue;
+    font-size: 30px;
+}
+/* universal selector */
+*{
+    color: black;
+}
+

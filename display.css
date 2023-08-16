@@ -1,0 +1,9 @@
+section,div{
+    background-color: red;
+    display: inline;
+
+}
+a,span{
+    background-color: green;
+    display: block;
+}

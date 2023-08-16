@@ -1,0 +1,7 @@
+div h1{
+    color: red;
+}
+.parent h1{
+    font-size: 30px;
+    color: green;
+}

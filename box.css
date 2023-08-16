@@ -1,0 +1,21 @@
+.mydiv{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    color: white;
+    margin: 20px auto;
+    padding: 20px;
+    font-weight: blod;
+    font-size: 30px;
+    text-align: center;
+}
+.img-div{
+    height: 200px;
+    width:200px;
+    border: 3px solid red;
+    margin: 20px 20px;
+}
+.img-div img{
+    height: 100%;
+    width: 100%;
+}

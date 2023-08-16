@@ -1,0 +1,25 @@
+.paragraph{
+    color: green;
+    text-decoration: none;
+    text-align: left;
+}
+.para{
+    color: blue;
+    font-size: 40px;
+    font-weight: 30px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+    text-decoration-line: line-through;
+     text-decoration: none;
+}
+h1{
+    text-shadow: 60px;
+    color: green;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 70px;
+    font-weight: 90px;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+    
+}

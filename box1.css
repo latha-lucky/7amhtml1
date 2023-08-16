@@ -1,0 +1,14 @@
+.div{
+    border-color: green;
+    height: 200px;
+    width: 200px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 5px;
+    transition: height 2s;
+}
+.box-div:hover{
+    background-color: red;
+    box-shadow: 5px 5px 4px 30px green;
+    height: 500px;
+}

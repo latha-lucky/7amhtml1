@@ -1,0 +1,18 @@
+.mydiv1{
+    border: 20px solid red;
+    width: 60px;
+    outline: 5px solid green;
+    outline-offset: 3px;
+    padding: 10px;
+    /* padding: 10px 20px;
+    padding: 10px 20px 20px 10px; */
+    margin: 20px;
+    /* margin: 10px 20px; */
+}
+.mydiv2{
+    width:50px;
+    border: 2px solid green;
+    outline: 3px sloid red;
+    padding: 20px;
+    margin: auto;
+}
